@@ -1,0 +1,65 @@
+#To{
+    color:rgb(248, 98, 191);
+    text-align: center;
+}
+
+#Do{
+    color:rgb(55, 192, 191);
+    text-align: center;
+}
+
+#Form{
+    color:rgb(236, 208, 59);
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    transform: scaleY(1.5);
+    font-weight:bolder;
+    font-size: 30px;
+}
+
+button{
+    background-color:rgb(202, 174, 228);
+    margin-top: 20px;
+}
+
+.region {
+    background: rgb(240, 240, 240);
+    height: 1500;
+    width: device-width;
+    align-items: center;
+}
+
+li {
+   font-size: larger;
+   font-family: 'Lucida handwriting';
+   align-items: center;
+   justify-content: space-between;
+}
+
+.checkbox {
+    margin-left: 12px;
+    margin-bottom: 0px;
+    width: 30px;
+    height: 30px;
+    appearance: none;
+    border: 2px solid;
+    border-radius: 4px;
+}
+
+div {
+    background-color:beige;
+    padding: 40px;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(240, 240, 240)
+}
+
